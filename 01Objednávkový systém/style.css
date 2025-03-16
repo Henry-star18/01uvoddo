@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+.myDiv{
+background-color: yellow;
+}
+.firstHeading{
+    background-color: blue;
+    font-size: x-large;
+
+}
+
+#secondCar{
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
